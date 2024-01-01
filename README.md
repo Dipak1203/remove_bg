@@ -4,6 +4,6 @@ In this project I'll create a simple remove background image using the remove.bg
 ```
   1. React with Typescript
   2. Chakra UI
-  3. React Hook Form
-  4. Axios
 ```
+
+![Alt text](Remove-Bg.png)
